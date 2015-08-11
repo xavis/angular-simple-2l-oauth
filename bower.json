@@ -1,0 +1,17 @@
+{
+  "name": "angular-simple-2l-oauth",
+  "version": "1.0.0",
+  "description": "Module with provider for simplifying oAuth link generation using SHA1.js by Paul Johnston & Contributors (http://pajhome.org.uk/crypt/md5/) and oAuth.js by Netflix (https://code.google.com/p/oauth/source/browse/code/javascript/oauth.js)",
+  "main" : [ 
+    "./sha1.js",
+    "./oauth.js",
+    "./angular-simple-2l-oauth.js"
+  ],
+  "ignore": [],
+  "dependencies": {
+    "angular": "~1.4.3"
+  },
+  "authors":[
+  	"Javier Sánchez Riquelme <javiershoz@gmail.com>"
+  ]
+}
